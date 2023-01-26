@@ -19,3 +19,83 @@
     --container: 69.375rem;
     --transition: 250ms ease-in-out;
 }
+
+
+html,
+body {
+    overflow-x: hidden;
+}
+
+html {
+    /* account for any border and padding in the values you specify for an element's width and height. */
+    box-sizing: border-box;
+    /*  setting font-size: 100% will make your text 100% of the base font size set in the browser. 16px*/
+    font-size: 100%;
+}
+
+/*  overriding/resetting some default styling.
+applies these values to every element on the page, and the ::before/::after make sure it also applies to any pseudo-elements. */
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body,
+input,
+textarea,
+button {
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+body {
+    margin: 0;
+    background-color: var(--bg-body);
+    color: var(--text1);
+    font-size: var(--fs-18);
+    /* sets the height of a line box. */
+    line-height: 1.56;
+    padding-bottom: 25rem;
+}
+
+/* defines the logical block start margin of an element */
+h1,
+h2,
+h3,
+p {
+    margin-block-start: 0;
+}
+
+h1,
+h2,
+h3 {
+    line-height: 1;
+}
+
+a {
+    transition: color var(--transition);
+}
+
+a:hover {
+    color: var(--accent);
+}
+
+img,
+svg {
+    display: block;
+}
+
+.visually-hidden {
+    position: absolute;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
+
+.wrapper {
+    width: calc(100% - 2rem);
+    max-width: var(--container);
+    margin-inline: auto;
+}

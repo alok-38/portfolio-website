@@ -4,20 +4,20 @@
     <img src="./assets/images/Screenshot1.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">JavaScript Random Password Generator</h3>
+  <h3 align="center">Alokananda Y | Single page portfolio site</h3>
 
   <p align="center">
-    An Awesome password Generator to learn vanilla JavaScript!
+    An Awesome single page portfolio site to showcase my skills and projects!
     <br/>
     <br/>
-    <a href="https://github.com/alok-38/ReadME-Generator"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/alok-38/portfolio-website"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/alok-38/ReadME-Generator">View Demo</a>
+    <a href="https://portfolio-website-ov74uokh8-alok-38.vercel.app/">View Demo</a>
     .
-    <a href="https://github.com/alok-38/ReadME-Generator/issues">Report Bug</a>
+    <a href="https://github.com/alok-38/portfolio-website/issues">Report Bug</a>
     .
-    <a href="https://github.com/alok-38/ReadME-Generator/issues">Request Feature</a>
+    <a href="https://github.com/alok-38/portfolio-website/issues">Request Feature</a>
   </p>
 </p>
 
@@ -81,6 +81,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/alok-38/Read
 
 ## Acknowledgements
 
-- [Per Herald Borgen](https://scrimba.com/bootcamp)
-- [Per Herald Borgen](https://scrimba.com/bootcamp)
-- [Scrimba](https://scrimba.com/bootcamp)
+- [Alokananda Y](https://twitter.com/plantsfortrees)

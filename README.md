@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/alok-38/ReadME-Generator">
-    <img src="./assets/images/Screenshot from 2023-01-27 16-53-50.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/alok-38/portfolio-website">
+    <img src="./assets/images/Screenshot1.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">JavaScript Random Password Generator</h3>

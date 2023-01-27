@@ -38,7 +38,8 @@
 
 ![Screen Shot](./assets/images/Screenshot2.png)
 
-The Scrimba Boot camp requires its students to build a secure random password generator using vanilla JavaScript .
+I decided to keep a portfolio site ready with dummy projects as placeholders. I will start to
+fill in the projects section with contents as soon as I have a couple of solid projects to showcase.
 
 ## Built With
 
